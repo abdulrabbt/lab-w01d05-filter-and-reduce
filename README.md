@@ -1,3 +1,4 @@
+```javascript
 var employees = [
 	{
 		name: 'Ghadz',
